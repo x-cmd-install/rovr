@@ -1,0 +1,57 @@
+about:
+  description: a stylish, batteries-included terminal file manager.
+  license: MIT
+  homepage: https://nspc911.github.io/rovr/
+  head: eb4ffd2
+  archived: false
+  latestVersion: nightly
+  collectedAt: 2026-08-30T04:37:02Z
+timeline:
+  created: 2025-05-21
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-30
+popularity:
+  star: 406
+  watcher: 1
+  fork: 27
+  release: 52
+  contributor: 14
+  pullRequest: 34
+  issue: 135
+language:
+  Python: 1022616
+  Makefile: 453
+totalLine: 1023069
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 4
+    mergedPR: 16
+    openPR: 0
+    closedIssue: 6
+    openIssue: 0
+    commit: 83
+  last90d:
+    since: 2026-06-01
+    release: 11
+    mergedPR: 33
+    openPR: 0
+    closedIssue: 6
+    openIssue: 0
+    commit: 259
+  last180d:
+    since: 2026-03-03
+    release: 21
+    mergedPR: 54
+    openPR: 1
+    closedIssue: 32
+    openIssue: 1
+    commit: 517
+  last360d:
+    since: 2025-09-04
+    release: 38
+    mergedPR: 144
+    openPR: 2
+    closedIssue: 103
+    openIssue: 4
+    commit: 1154
