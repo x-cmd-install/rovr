@@ -1,0 +1,180 @@
+about:
+  description: "a stylish, batteries-included terminal file manager."
+  license: MIT
+  homepage: https://nspc911.github.io/rovr/
+  head: 9b7085f
+  archived: false
+  latestVersion: "nightly"
+  collectedAt: 2026-09-07T05:06:20Z
+timeline:
+  created: 2025-05-21
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-07
+popularity:
+  star: 409
+  watcher: 1
+  fork: 28
+  release: 52
+  contributor: 15
+  pullRequest: 194
+  issue: 141
+language:
+  Python: 1049035
+  Makefile: 453
+totalBytes: 1049488
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 3
+    mergedPR: 15
+    openPR: 0
+    closedIssue: 8
+    openIssue: 1
+    commit: 95
+  last60d:
+    since: 2026-07-09
+    release: 6
+    mergedPR: 31
+    openPR: 0
+    closedIssue: 11
+    openIssue: 1
+    commit: 214
+  last90d:
+    since: 2026-06-09
+    release: 9
+    mergedPR: 36
+    openPR: 0
+    closedIssue: 11
+    openIssue: 1
+    commit: 278
+  last180d:
+    since: 2026-03-11
+    release: 21
+    mergedPR: 60
+    openPR: 1
+    closedIssue: 34
+    openIssue: 1
+    commit: 535
+  last360d:
+    since: 2025-09-12
+    release: 37
+    mergedPR: 149
+    openPR: 2
+    closedIssue: 97
+    openIssue: 4
+    commit: 1187
+  last720d:
+    since: 2024-09-17
+    release: 52
+    mergedPR: 160
+    openPR: 2
+    closedIssue: 135
+    openIssue: 6
+    commit: 1587
+total:
+  release: 52
+  mergedPR: 160
+  openPR: 2
+  closedIssue: 135
+  openIssue: 6
+  commit: 1587
+---
+path: /home/runner/.x-repo/github.com/NSPC911/rovr
+collectedAt: 2026-09-07T05:06:24Z
+loc:
+  Svg:
+    code: 49663
+    comments: 40
+    blanks: 280
+    files: 40
+  Python:
+    code: 23981
+    comments: 896
+    blanks: 3197
+    files: 124
+  Yaml:
+    code: 3467
+    comments: 0
+    blanks: 930
+    files: 4
+  Json:
+    code: 2023
+    comments: 0
+    blanks: 0
+    files: 7
+  Toml:
+    code: 1181
+    comments: 32
+    blanks: 118
+    files: 6
+  JavaScript:
+    code: 313
+    comments: 5
+    blanks: 33
+    files: 2
+  Css:
+    code: 311
+    comments: 68
+    blanks: 8
+    files: 2
+  Sh:
+    code: 166
+    comments: 2
+    blanks: 25
+    files: 2
+  PowerShell:
+    code: 102
+    comments: 3
+    blanks: 14
+    files: 2
+  TypeScript:
+    code: 39
+    comments: 0
+    blanks: 7
+    files: 2
+  Markdown:
+    code: 0
+    comments: 921
+    blanks: 348
+    files: 8
+total:
+  code: 81321
+  comments: 1974
+  blanks: 4970
+  files: 199
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:06:24+00:00
+  platform:
+    darwin/arm64:
+      name:  rovr-macos-arm64-nuitka.zip
+      url:   https://github.com/NSPC911/rovr/releases/download/v0.10.1.post1/rovr-macos-arm64-nuitka.zip
+      size:  27213887
+      score: 45
+    darwin/amd64:
+      name:  rovr-macos-x64-nuitka.zip
+      url:   https://github.com/NSPC911/rovr/releases/download/v0.10.1.post1/rovr-macos-x64-nuitka.zip
+      size:  29882618
+      score: 45
+    linux/arm64:
+      name:  rovr-linux-arm64-nuitka.zip
+      url:   https://github.com/NSPC911/rovr/releases/download/v0.10.1.post1/rovr-linux-arm64-nuitka.zip
+      size:  31324139
+      score: 45
+    linux/amd64:
+      name:  rovr-linux-x64-nuitka.zip
+      url:   https://github.com/NSPC911/rovr/releases/download/v0.10.1.post1/rovr-linux-x64-nuitka.zip
+      size:  32647071
+      score: 45
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  rovr-windows-x64-nuitka.zip
+      url:   https://github.com/NSPC911/rovr/releases/download/v0.10.1.post1/rovr-windows-x64-nuitka.zip
+      size:  27610920
+      score: 45
