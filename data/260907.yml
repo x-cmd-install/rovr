@@ -2,10 +2,10 @@ about:
   description: "a stylish, batteries-included terminal file manager."
   license: MIT
   homepage: https://nspc911.github.io/rovr/
-  head: 9b7085f
+  head: e06cc5e
   archived: false
   latestVersion: "nightly"
-  collectedAt: 2026-09-07T05:06:20Z
+  collectedAt: 2026-09-07T19:19:49Z
 timeline:
   created: 2025-05-21
   lastCommit: 2026-09-07
@@ -16,71 +16,71 @@ popularity:
   fork: 28
   release: 52
   contributor: 15
-  pullRequest: 194
+  pullRequest: 195
   issue: 141
 language:
-  Python: 1049035
+  Python: 1053753
   Makefile: 453
-totalBytes: 1049488
+totalBytes: 1054206
 recent:
   last30d:
     since: 2026-08-08
     release: 3
     mergedPR: 15
-    openPR: 0
+    openPR: 1
     closedIssue: 8
     openIssue: 1
-    commit: 95
+    commit: 104
   last60d:
     since: 2026-07-09
     release: 6
     mergedPR: 31
-    openPR: 0
+    openPR: 1
     closedIssue: 11
     openIssue: 1
-    commit: 214
+    commit: 223
   last90d:
     since: 2026-06-09
     release: 9
     mergedPR: 36
-    openPR: 0
+    openPR: 1
     closedIssue: 11
     openIssue: 1
-    commit: 278
+    commit: 287
   last180d:
     since: 2026-03-11
     release: 21
     mergedPR: 60
-    openPR: 1
+    openPR: 2
     closedIssue: 34
     openIssue: 1
-    commit: 535
+    commit: 544
   last360d:
     since: 2025-09-12
     release: 37
     mergedPR: 149
-    openPR: 2
+    openPR: 3
     closedIssue: 97
     openIssue: 4
-    commit: 1187
+    commit: 1196
   last720d:
     since: 2024-09-17
     release: 52
     mergedPR: 160
-    openPR: 2
+    openPR: 3
     closedIssue: 135
     openIssue: 6
-    commit: 1587
+    commit: 1596
 total:
   release: 52
   mergedPR: 160
-  openPR: 2
+  openPR: 3
   closedIssue: 135
   openIssue: 6
-  commit: 1587
+  commit: 1596
 ---
 path: /home/runner/.x-repo/github.com/NSPC911/rovr
-collectedAt: 2026-09-07T05:06:24Z
+collectedAt: 2026-09-07T19:19:52Z
 loc:
   Svg:
     code: 49663
@@ -88,9 +88,9 @@ loc:
     blanks: 280
     files: 40
   Python:
-    code: 23981
-    comments: 896
-    blanks: 3197
+    code: 24128
+    comments: 893
+    blanks: 3219
     files: 124
   Yaml:
     code: 3467
@@ -138,15 +138,15 @@ loc:
     blanks: 348
     files: 8
 total:
-  code: 81321
-  comments: 1974
-  blanks: 4970
+  code: 81468
+  comments: 1971
+  blanks: 4992
   files: 199
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:06:24+00:00
+  collectedAt: 2026-09-07T19:19:53+00:00
   platform:
     darwin/arm64:
       name:  rovr-macos-arm64-nuitka.zip
