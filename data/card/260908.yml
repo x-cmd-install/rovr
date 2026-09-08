@@ -2,14 +2,14 @@ about:
   description: "a stylish, batteries-included terminal file manager."
   license: MIT
   homepage: https://nspc911.github.io/rovr/
-  head: 8f09ab3
+  head: 9cd89fa
   archived: false
   latestVersion: "nightly"
-  collectedAt: 2026-09-08T02:22:36Z
+  collectedAt: 2026-09-08T05:08:51Z
 timeline:
   created: 2025-05-21
   lastCommit: 2026-09-08
-  lastRelease: 2026-09-07
+  lastRelease: 2026-09-08
 popularity:
   star: 409
   watcher: 1
@@ -19,9 +19,9 @@ popularity:
   pullRequest: 195
   issue: 141
 language:
-  Python: 1053911
+  Python: 1055193
   Makefile: 453
-totalBytes: 1054364
+totalBytes: 1055646
 recent:
   last30d:
     since: 2026-08-09
@@ -30,7 +30,7 @@ recent:
     openPR: 1
     closedIssue: 7
     openIssue: 1
-    commit: 105
+    commit: 107
   last60d:
     since: 2026-07-10
     release: 6
@@ -38,7 +38,7 @@ recent:
     openPR: 1
     closedIssue: 11
     openIssue: 1
-    commit: 224
+    commit: 226
   last90d:
     since: 2026-06-10
     release: 9
@@ -46,7 +46,7 @@ recent:
     openPR: 1
     closedIssue: 11
     openIssue: 1
-    commit: 288
+    commit: 290
   last180d:
     since: 2026-03-12
     release: 20
@@ -54,7 +54,7 @@ recent:
     openPR: 2
     closedIssue: 34
     openIssue: 1
-    commit: 545
+    commit: 547
   last360d:
     since: 2025-09-13
     release: 37
@@ -62,7 +62,7 @@ recent:
     openPR: 3
     closedIssue: 95
     openIssue: 4
-    commit: 1197
+    commit: 1199
   last720d:
     since: 2024-09-18
     release: 52
@@ -70,17 +70,17 @@ recent:
     openPR: 3
     closedIssue: 135
     openIssue: 6
-    commit: 1597
+    commit: 1599
 total:
   release: 52
   mergedPR: 160
   openPR: 3
   closedIssue: 135
   openIssue: 6
-  commit: 1597
+  commit: 1599
 ---
 path: /home/runner/.x-repo/github.com/NSPC911/rovr
-collectedAt: 2026-09-08T02:22:39Z
+collectedAt: 2026-09-08T05:08:53Z
 loc:
   Svg:
     code: 49663
@@ -88,9 +88,9 @@ loc:
     blanks: 280
     files: 40
   Python:
-    code: 24128
+    code: 24162
     comments: 893
-    blanks: 3219
+    blanks: 3229
     files: 124
   Yaml:
     code: 3467
@@ -138,9 +138,9 @@ loc:
     blanks: 348
     files: 8
 total:
-  code: 81468
+  code: 81502
   comments: 1971
-  blanks: 4992
+  blanks: 5002
   files: 199
 ---
 

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 31324139,
       "digest": "sha256:db4249baaeb5c7fa335e3a23e071fea59c7f4d27e95741b9e5fcd3d6776dcab6",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-08-20T13:18:30Z",
       "updated_at": "2026-08-20T13:18:34Z",
       "browser_download_url": "https://github.com/NSPC911/rovr/releases/download/v0.10.1.post1/rovr-linux-arm64-nuitka.zip"
