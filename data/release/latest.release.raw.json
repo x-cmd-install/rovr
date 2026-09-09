@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 31324139,
       "digest": "sha256:db4249baaeb5c7fa335e3a23e071fea59c7f4d27e95741b9e5fcd3d6776dcab6",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-08-20T13:18:30Z",
       "updated_at": "2026-08-20T13:18:34Z",
       "browser_download_url": "https://github.com/NSPC911/rovr/releases/download/v0.10.1.post1/rovr-linux-arm64-nuitka.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 32647071,
       "digest": "sha256:555bd41a7a5132cade3fd2fc923e7f3b91d46b34a3f456de25262686b2e0ac3d",
-      "download_count": 58,
+      "download_count": 62,
       "created_at": "2026-08-20T13:17:53Z",
       "updated_at": "2026-08-20T13:18:02Z",
       "browser_download_url": "https://github.com/NSPC911/rovr/releases/download/v0.10.1.post1/rovr-linux-x64-nuitka.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 27213887,
       "digest": "sha256:76dce64a2a384e0b8bc1adbeb921075971f416b45487b7eba18face5174a6e9a",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-08-20T13:18:17Z",
       "updated_at": "2026-08-20T13:18:25Z",
       "browser_download_url": "https://github.com/NSPC911/rovr/releases/download/v0.10.1.post1/rovr-macos-arm64-nuitka.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 29882618,
       "digest": "sha256:8d650b9f79bb34b1f0bdefa4c4117f6c778099fd16139da4a2b8346a0fb30d33",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-08-20T13:18:09Z",
       "updated_at": "2026-08-20T13:18:17Z",
       "browser_download_url": "https://github.com/NSPC911/rovr/releases/download/v0.10.1.post1/rovr-macos-x64-nuitka.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 21563734,
       "digest": "sha256:34ba4afb1ef43db40e0d1ff313b69cedf7f500ac78a765b936273cb2abe7b161",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-08-20T13:18:25Z",
       "updated_at": "2026-08-20T13:18:30Z",
       "browser_download_url": "https://github.com/NSPC911/rovr/releases/download/v0.10.1.post1/rovr-windows-arm-nuitka.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 27610920,
       "digest": "sha256:d2f6418c598dfdfdbe76fa5853ae46c13da45220860ad0af7125e34ac642f88f",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-08-20T13:18:02Z",
       "updated_at": "2026-08-20T13:18:09Z",
       "browser_download_url": "https://github.com/NSPC911/rovr/releases/download/v0.10.1.post1/rovr-windows-x64-nuitka.zip"
