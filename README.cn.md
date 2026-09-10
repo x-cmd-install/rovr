@@ -4,13 +4,25 @@
 
 a stylish, batteries-included terminal file manager.
 
-![rovr](https://repo.x-cmd.io/rovr.svg)
+![rovr](https://repo.x-cmd.io/rovr.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install rovr
 ```
+
+## 代码规模
+
+合计: **74,625** 行代码（覆盖前 5 种语言、共 **181** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Svg | 42,842 | 40 | 280 | 40 |
+| Python | 24,181 | 893 | 3,232 | 124 |
+| Yaml | 3,467 | 0 | 930 | 4 |
+| Json | 2,023 | 0 | 0 | 7 |
+| Toml | 1,181 | 32 | 118 | 6 |
 
 ## 源代码
 
@@ -20,38 +32,39 @@ x install rovr
 
 ## 发布
 
-- **最新版本**: `nightly` (2026-08-20)
+- **最新版本**: `v0.10.2` (2026-09-10)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-08-20T13:21:40Z
 
 ## 流行度
 
-- **Star**: 411 · **Fork**: 28 · **开放 issue**: 142 · **贡献者**: 15
+- **Star**: 410 · **Fork**: 28 · **开放 issue**: 142 · **贡献者**: 15
 
 ## 累计统计
 
-- **发布数**: 52 · **已合并 PR**: 161 · **开放 PR**: 4 · **已关闭 issue**: 136 · **开放 issue**: 6 · **提交数**: 1602
+- **发布数**: 53 · **已合并 PR**: 161 · **开放 PR**: 4 · **已关闭 issue**: 136 · **开放 issue**: 6 · **提交数**: 1609
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 14 | 2 | 8 | 1 | 110 |
-| 90d | 2026-06-12 | 9 | 37 | 2 | 12 | 1 | 293 |
-| 360d | 2025-09-15 | 37 | 148 | 4 | 96 | 4 | 1202 |
+| 30d | 2026-08-11 | 4 | 14 | 2 | 8 | 1 | 117 |
+| last60d | 2026-07-12 | 7 | 32 | 2 | 12 | 1 | 236 |
+| 90d | 2026-06-12 | 10 | 37 | 2 | 12 | 1 | 300 |
+| last180d | 2026-03-14 | 21 | 61 | 3 | 35 | 1 | 557 |
+| 360d | 2025-09-15 | 38 | 148 | 4 | 96 | 4 | 1209 |
+| last720d | 2024-09-20 | 53 | 161 | 4 | 136 | 6 | 1609 |
 
-## 代码规模
+## Release 资产
 
-合计: **81,429** 行代码（覆盖前 5 种语言、共 **181** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Svg | 49,663 | 40 | 280 | 40 |
-| Python | 24,164 | 893 | 3,229 | 124 |
-| Yaml | 3,467 | 0 | 930 | 4 |
-| Json | 2,023 | 0 | 0 | 7 |
-| Toml | 1,181 | 32 | 118 | 6 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [rovr-linux-arm64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-linux-arm64-nuitka.zip) | 22.9 MiB | `native/linux/arm64` |
+| [rovr-linux-x64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-linux-x64-nuitka.zip) | 23.4 MiB | `other` |
+| [rovr-macos-arm64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-macos-arm64-nuitka.zip) | 20.3 MiB | `native/darwin/arm64` |
+| [rovr-macos-x64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-macos-x64-nuitka.zip) | 21.5 MiB | `native/darwin/x64` |
+| [rovr-windows-arm-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-windows-arm-nuitka.zip) | 17.1 MiB | `native/win/x64` |
+| [rovr-windows-x64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-windows-x64-nuitka.zip) | 22.1 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -62,4 +75,4 @@ rovr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:13:54Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:51:42Z._
