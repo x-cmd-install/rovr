@@ -14,12 +14,12 @@ x install rovr
 
 ## Code insight
 
-Total: **74,625** lines of code across **181** files in the top 5 languages.
+Total: **74,627** lines of code across **181** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 42,842 | 40 | 280 | 40 |
-| Python | 24,181 | 893 | 3,232 | 124 |
+| Python | 24,183 | 893 | 3,232 | 124 |
 | Yaml | 3,467 | 0 | 930 | 4 |
 | Json | 2,023 | 0 | 0 | 7 |
 | Toml | 1,181 | 32 | 118 | 6 |
@@ -32,8 +32,8 @@ Total: **74,625** lines of code across **181** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.10.2` (2026-09-10)
-- **Last commit**: 2026-09-10
+- **Latest**: `nightly` (2026-09-10)
+- **Last commit**: 2026-09-11
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **74,625** lines of code across **181** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 161 · **Open PRs**: 4 · **Closed issues**: 136 · **Open issues**: 6 · **Commits**: 1609
+- **Releases**: 53 · **Merged PRs**: 162 · **Open PRs**: 4 · **Closed issues**: 136 · **Open issues**: 6 · **Commits**: 1611
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 14 | 2 | 8 | 1 | 117 |
-| last60d | 2026-07-12 | 7 | 32 | 2 | 12 | 1 | 236 |
-| 90d | 2026-06-12 | 10 | 37 | 2 | 12 | 1 | 300 |
-| last180d | 2026-03-14 | 21 | 61 | 3 | 35 | 1 | 557 |
-| 360d | 2025-09-15 | 38 | 148 | 4 | 96 | 4 | 1209 |
-| last720d | 2024-09-20 | 53 | 161 | 4 | 136 | 6 | 1609 |
+| 30d | 2026-08-12 | 4 | 13 | 2 | 8 | 1 | 119 |
+| last60d | 2026-07-13 | 7 | 31 | 2 | 12 | 1 | 238 |
+| 90d | 2026-06-13 | 10 | 38 | 2 | 12 | 1 | 302 |
+| last180d | 2026-03-15 | 21 | 62 | 3 | 34 | 1 | 559 |
+| 360d | 2025-09-16 | 38 | 148 | 4 | 94 | 4 | 1211 |
+| last720d | 2024-09-21 | 53 | 162 | 4 | 136 | 6 | 1611 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for rovr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:54:14Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:27:48Z._
