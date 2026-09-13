@@ -19,7 +19,7 @@ Total: **74,672** lines of code across **181** files in the top 5 languages.
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 42,842 | 40 | 280 | 40 |
-| Python | 24,227 | 894 | 3,250 | 124 |
+| Python | 24,227 | 895 | 3,250 | 124 |
 | Yaml | 3,467 | 0 | 930 | 4 |
 | Json | 2,023 | 0 | 0 | 7 |
 | Toml | 1,182 | 32 | 118 | 6 |
@@ -42,18 +42,18 @@ Total: **74,672** lines of code across **181** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 162 · **Open PRs**: 4 · **Closed issues**: 136 · **Open issues**: 6 · **Commits**: 1614
+- **Releases**: 53 · **Merged PRs**: 162 · **Open PRs**: 4 · **Closed issues**: 136 · **Open issues**: 6 · **Commits**: 1615
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 4 | 13 | 2 | 7 | 1 | 122 |
-| last60d | 2026-07-14 | 7 | 31 | 2 | 12 | 1 | 241 |
-| 90d | 2026-06-14 | 9 | 38 | 2 | 12 | 1 | 305 |
-| last180d | 2026-03-16 | 21 | 62 | 3 | 34 | 1 | 562 |
-| 360d | 2025-09-17 | 38 | 148 | 4 | 93 | 4 | 1214 |
-| last720d | 2024-09-22 | 53 | 162 | 4 | 136 | 6 | 1614 |
+| 30d | 2026-08-14 | 4 | 13 | 2 | 7 | 1 | 100 |
+| last60d | 2026-07-15 | 7 | 31 | 2 | 12 | 1 | 220 |
+| 90d | 2026-06-15 | 8 | 38 | 2 | 12 | 1 | 290 |
+| last180d | 2026-03-17 | 21 | 62 | 3 | 34 | 1 | 550 |
+| 360d | 2025-09-18 | 38 | 148 | 4 | 91 | 4 | 1209 |
+| last720d | 2024-09-23 | 53 | 162 | 4 | 136 | 6 | 1615 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for rovr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:05:54Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:26:39Z._
