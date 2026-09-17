@@ -14,15 +14,15 @@ x install rovr
 
 ## Code insight
 
-Total: **74,711** lines of code across **181** files in the top 5 languages.
+Total: **76,216** lines of code across **187** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 42,842 | 40 | 280 | 40 |
-| Python | 24,264 | 896 | 3,256 | 124 |
+| Python | 25,635 | 914 | 3,485 | 130 |
 | Yaml | 3,467 | 0 | 930 | 4 |
-| Json | 2,023 | 0 | 0 | 7 |
-| Toml | 1,184 | 32 | 118 | 6 |
+| Json | 2,132 | 0 | 0 | 7 |
+| Toml | 1,204 | 32 | 124 | 6 |
 
 ## Source
 
@@ -32,8 +32,8 @@ Total: **74,711** lines of code across **181** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `nightly` (2026-09-10)
-- **Last commit**: 2026-09-14
+- **Latest**: `nightly` (2026-09-16)
+- **Last commit**: 2026-09-16
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,29 +42,29 @@ Total: **74,711** lines of code across **181** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 162 · **Open PRs**: 4 · **Closed issues**: 136 · **Open issues**: 6 · **Commits**: 1619
+- **Releases**: 54 · **Merged PRs**: 164 · **Open PRs**: 2 · **Closed issues**: 137 · **Open issues**: 5 · **Commits**: 1624
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 4 | 12 | 2 | 7 | 1 | 104 |
-| last60d | 2026-07-18 | 7 | 30 | 2 | 12 | 1 | 224 |
-| 90d | 2026-06-18 | 8 | 38 | 2 | 12 | 1 | 294 |
-| last180d | 2026-03-20 | 21 | 62 | 3 | 34 | 1 | 554 |
-| 360d | 2025-09-21 | 38 | 147 | 4 | 87 | 4 | 1213 |
-| last720d | 2024-09-26 | 53 | 162 | 4 | 136 | 6 | 1619 |
+| 30d | 2026-08-18 | 4 | 14 | 0 | 8 | 0 | 109 |
+| last60d | 2026-07-19 | 7 | 32 | 0 | 13 | 0 | 229 |
+| 90d | 2026-06-19 | 9 | 39 | 0 | 13 | 0 | 299 |
+| last180d | 2026-03-21 | 21 | 64 | 1 | 35 | 0 | 559 |
+| 360d | 2025-09-22 | 39 | 147 | 2 | 88 | 3 | 1218 |
+| last720d | 2024-09-27 | 54 | 164 | 2 | 137 | 5 | 1624 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [rovr-linux-arm64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-linux-arm64-nuitka.zip) | 22.9 MiB | `native/linux/arm64` |
-| [rovr-linux-x64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-linux-x64-nuitka.zip) | 23.4 MiB | `other` |
-| [rovr-macos-arm64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-macos-arm64-nuitka.zip) | 20.3 MiB | `native/darwin/arm64` |
-| [rovr-macos-x64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-macos-x64-nuitka.zip) | 21.5 MiB | `native/darwin/x64` |
-| [rovr-windows-arm-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-windows-arm-nuitka.zip) | 17.1 MiB | `native/win/x64` |
-| [rovr-windows-x64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-windows-x64-nuitka.zip) | 22.1 MiB | `native/win/x64` |
+| [rovr-linux-arm64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2.post1/rovr-linux-arm64-nuitka.zip) | 22.9 MiB | `native/linux/arm64` |
+| [rovr-linux-x64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2.post1/rovr-linux-x64-nuitka.zip) | 23.4 MiB | `other` |
+| [rovr-macos-arm64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2.post1/rovr-macos-arm64-nuitka.zip) | 20.3 MiB | `native/darwin/arm64` |
+| [rovr-macos-x64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2.post1/rovr-macos-x64-nuitka.zip) | 21.5 MiB | `native/darwin/x64` |
+| [rovr-windows-arm-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2.post1/rovr-windows-arm-nuitka.zip) | 17.1 MiB | `native/win/x64` |
+| [rovr-windows-x64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2.post1/rovr-windows-x64-nuitka.zip) | 22.1 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for rovr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:32:47Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:34:50Z._

@@ -14,15 +14,15 @@ x install rovr
 
 ## 代码洞察
 
-合计: **74,711** 行代码（覆盖前 5 种语言、共 **181** 个文件）。
+合计: **76,216** 行代码（覆盖前 5 种语言、共 **187** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Svg | 42,842 | 40 | 280 | 40 |
-| Python | 24,264 | 896 | 3,256 | 124 |
+| Python | 25,635 | 914 | 3,485 | 130 |
 | Yaml | 3,467 | 0 | 930 | 4 |
-| Json | 2,023 | 0 | 0 | 7 |
-| Toml | 1,184 | 32 | 118 | 6 |
+| Json | 2,132 | 0 | 0 | 7 |
+| Toml | 1,204 | 32 | 124 | 6 |
 
 ## 源代码
 
@@ -32,8 +32,8 @@ x install rovr
 
 ## 发布
 
-- **最新版本**: `nightly` (2026-09-10)
-- **最近提交**: 2026-09-14
+- **最新版本**: `nightly` (2026-09-16)
+- **最近提交**: 2026-09-16
 - **Release 含资产**: 6 个
 
 ## 流行度
@@ -42,29 +42,29 @@ x install rovr
 
 ## 累计统计
 
-- **发布数**: 53 · **已合并 PR**: 162 · **开放 PR**: 4 · **已关闭 issue**: 136 · **开放 issue**: 6 · **提交数**: 1619
+- **发布数**: 54 · **已合并 PR**: 164 · **开放 PR**: 2 · **已关闭 issue**: 137 · **开放 issue**: 5 · **提交数**: 1624
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 4 | 12 | 2 | 7 | 1 | 104 |
-| last60d | 2026-07-18 | 7 | 30 | 2 | 12 | 1 | 224 |
-| 90d | 2026-06-18 | 8 | 38 | 2 | 12 | 1 | 294 |
-| last180d | 2026-03-20 | 21 | 62 | 3 | 34 | 1 | 554 |
-| 360d | 2025-09-21 | 38 | 147 | 4 | 87 | 4 | 1213 |
-| last720d | 2024-09-26 | 53 | 162 | 4 | 136 | 6 | 1619 |
+| 30d | 2026-08-18 | 4 | 14 | 0 | 8 | 0 | 109 |
+| last60d | 2026-07-19 | 7 | 32 | 0 | 13 | 0 | 229 |
+| 90d | 2026-06-19 | 9 | 39 | 0 | 13 | 0 | 299 |
+| last180d | 2026-03-21 | 21 | 64 | 1 | 35 | 0 | 559 |
+| 360d | 2025-09-22 | 39 | 147 | 2 | 88 | 3 | 1218 |
+| last720d | 2024-09-27 | 54 | 164 | 2 | 137 | 5 | 1624 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [rovr-linux-arm64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-linux-arm64-nuitka.zip) | 22.9 MiB | `native/linux/arm64` |
-| [rovr-linux-x64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-linux-x64-nuitka.zip) | 23.4 MiB | `other` |
-| [rovr-macos-arm64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-macos-arm64-nuitka.zip) | 20.3 MiB | `native/darwin/arm64` |
-| [rovr-macos-x64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-macos-x64-nuitka.zip) | 21.5 MiB | `native/darwin/x64` |
-| [rovr-windows-arm-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-windows-arm-nuitka.zip) | 17.1 MiB | `native/win/x64` |
-| [rovr-windows-x64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2/rovr-windows-x64-nuitka.zip) | 22.1 MiB | `native/win/x64` |
+| [rovr-linux-arm64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2.post1/rovr-linux-arm64-nuitka.zip) | 22.9 MiB | `native/linux/arm64` |
+| [rovr-linux-x64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2.post1/rovr-linux-x64-nuitka.zip) | 23.4 MiB | `other` |
+| [rovr-macos-arm64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2.post1/rovr-macos-arm64-nuitka.zip) | 20.3 MiB | `native/darwin/arm64` |
+| [rovr-macos-x64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2.post1/rovr-macos-x64-nuitka.zip) | 21.5 MiB | `native/darwin/x64` |
+| [rovr-windows-arm-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2.post1/rovr-windows-arm-nuitka.zip) | 17.1 MiB | `native/win/x64` |
+| [rovr-windows-x64-nuitka.zip](https://github.com/NSPC911/rovr/releases/download/v0.10.2.post1/rovr-windows-x64-nuitka.zip) | 22.1 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -75,4 +75,4 @@ rovr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260916.yml` · 2026-09-16T05:32:47Z._
+_数据快照: `data/card/260917.yml` · 2026-09-17T05:34:50Z._
