@@ -14,15 +14,15 @@ x install rovr
 
 ## Code insight
 
-Total: **76,541** lines of code across **187** files in the top 5 languages.
+Total: **76,566** lines of code across **187** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 42,842 | 40 | 280 | 40 |
-| Python | 25,841 | 920 | 3,555 | 130 |
+| Python | 25,859 | 921 | 3,558 | 130 |
 | Yaml | 3,467 | 0 | 930 | 4 |
-| Json | 2,229 | 0 | 0 | 7 |
-| Toml | 1,226 | 35 | 126 | 6 |
+| Json | 2,234 | 0 | 0 | 7 |
+| Toml | 1,228 | 35 | 126 | 6 |
 
 ## Source
 
@@ -42,18 +42,18 @@ Total: **76,541** lines of code across **187** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 167 · **Open PRs**: 2 · **Closed issues**: 138 · **Open issues**: 5 · **Commits**: 1663
+- **Releases**: 54 · **Merged PRs**: 167 · **Open PRs**: 2 · **Closed issues**: 138 · **Open issues**: 5 · **Commits**: 1668
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 3 | 14 | 0 | 7 | 0 | 90 |
-| last60d | 2026-07-29 | 6 | 30 | 0 | 13 | 0 | 211 |
-| 90d | 2026-06-29 | 8 | 40 | 0 | 13 | 0 | 306 |
-| last180d | 2026-03-31 | 20 | 64 | 1 | 36 | 0 | 562 |
-| 360d | 2025-10-02 | 39 | 143 | 2 | 82 | 3 | 1232 |
-| last720d | 2024-10-07 | 54 | 167 | 2 | 138 | 5 | 1663 |
+| 30d | 2026-08-29 | 3 | 14 | 0 | 7 | 0 | 94 |
+| last60d | 2026-07-30 | 6 | 30 | 0 | 13 | 0 | 216 |
+| 90d | 2026-06-30 | 8 | 40 | 0 | 13 | 0 | 311 |
+| last180d | 2026-04-01 | 20 | 64 | 1 | 35 | 0 | 567 |
+| 360d | 2025-10-03 | 39 | 142 | 2 | 78 | 3 | 1237 |
+| last720d | 2024-10-08 | 54 | 167 | 2 | 138 | 5 | 1668 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for rovr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:42:37Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:47:30Z._
