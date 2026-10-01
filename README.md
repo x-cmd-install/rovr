@@ -14,12 +14,12 @@ x install rovr
 
 ## Code insight
 
-Total: **76,657** lines of code across **187** files in the top 5 languages.
+Total: **76,659** lines of code across **187** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 42,861 | 40 | 281 | 41 |
-| Python | 25,961 | 922 | 3,568 | 130 |
+| Python | 25,963 | 923 | 3,568 | 130 |
 | Yaml | 3,463 | 0 | 930 | 3 |
 | Json | 2,226 | 0 | 0 | 7 |
 | Toml | 1,229 | 35 | 127 | 6 |
@@ -38,22 +38,22 @@ Total: **76,657** lines of code across **187** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 411 · **Forks**: 28 · **Open issues**: 143 · **Contributors**: 15
+- **Stars**: 412 · **Forks**: 29 · **Open issues**: 143 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 168 · **Open PRs**: 2 · **Closed issues**: 138 · **Open issues**: 5 · **Commits**: 1686
+- **Releases**: 54 · **Merged PRs**: 168 · **Open PRs**: 2 · **Closed issues**: 138 · **Open issues**: 5 · **Commits**: 1688
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 3 | 12 | 0 | 7 | 0 | 112 |
-| last60d | 2026-08-01 | 6 | 31 | 0 | 13 | 0 | 234 |
-| 90d | 2026-07-02 | 8 | 41 | 0 | 13 | 0 | 329 |
-| last180d | 2026-04-03 | 19 | 65 | 1 | 31 | 0 | 585 |
-| 360d | 2025-10-05 | 39 | 138 | 2 | 77 | 3 | 1255 |
-| last720d | 2024-10-10 | 54 | 168 | 2 | 138 | 5 | 1686 |
+| 30d | 2026-09-01 | 3 | 12 | 0 | 7 | 0 | 114 |
+| last60d | 2026-08-02 | 5 | 29 | 0 | 13 | 0 | 236 |
+| 90d | 2026-07-03 | 8 | 41 | 0 | 13 | 0 | 331 |
+| last180d | 2026-04-04 | 19 | 65 | 1 | 31 | 0 | 587 |
+| 360d | 2025-10-06 | 39 | 137 | 2 | 77 | 3 | 1257 |
+| last720d | 2024-10-11 | 54 | 168 | 2 | 138 | 5 | 1688 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for rovr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:13:10Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:19:52Z._
