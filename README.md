@@ -33,27 +33,27 @@ Total: **76,661** lines of code across **187** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-10-01)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-04
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 412 · **Forks**: 29 · **Open issues**: 143 · **Contributors**: 15
+- **Stars**: 412 · **Forks**: 29 · **Open issues**: 144 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 168 · **Open PRs**: 2 · **Closed issues**: 138 · **Open issues**: 5 · **Commits**: 1694
+- **Releases**: 55 · **Merged PRs**: 168 · **Open PRs**: 2 · **Closed issues**: 138 · **Open issues**: 6 · **Commits**: 1695
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 4 | 8 | 0 | 2 | 0 | 86 |
-| last60d | 2026-08-05 | 6 | 27 | 0 | 12 | 0 | 207 |
-| 90d | 2026-07-06 | 9 | 39 | 0 | 13 | 0 | 324 |
-| last180d | 2026-04-07 | 20 | 64 | 1 | 27 | 0 | 559 |
-| 360d | 2025-10-09 | 40 | 134 | 2 | 77 | 3 | 1219 |
-| last720d | 2024-10-14 | 55 | 168 | 2 | 138 | 5 | 1694 |
+| 30d | 2026-09-05 | 4 | 8 | 0 | 1 | 1 | 87 |
+| last60d | 2026-08-06 | 6 | 26 | 0 | 10 | 1 | 208 |
+| 90d | 2026-07-07 | 9 | 39 | 0 | 13 | 1 | 325 |
+| last180d | 2026-04-08 | 20 | 63 | 1 | 26 | 1 | 560 |
+| 360d | 2025-10-10 | 40 | 133 | 2 | 77 | 4 | 1220 |
+| last720d | 2024-10-15 | 55 | 168 | 2 | 138 | 6 | 1695 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for rovr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:17:54Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:02:10Z._
