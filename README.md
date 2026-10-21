@@ -38,7 +38,7 @@ Total: **76,661** lines of code across **187** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 415 · **Forks**: 29 · **Open issues**: 145 · **Contributors**: 15
+- **Stars**: 414 · **Forks**: 30 · **Open issues**: 145 · **Contributors**: 15
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **76,661** lines of code across **187** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 2 | 0 | 0 | 2 | 37 |
-| last60d | 2026-08-21 | 4 | 18 | 0 | 7 | 2 | 165 |
-| 90d | 2026-07-22 | 8 | 35 | 0 | 13 | 2 | 285 |
-| last180d | 2026-04-23 | 19 | 59 | 1 | 22 | 2 | 530 |
-| 360d | 2025-10-25 | 34 | 127 | 2 | 69 | 5 | 1157 |
-| last720d | 2024-10-30 | 55 | 168 | 2 | 138 | 7 | 1694 |
+| 30d | 2026-09-21 | 2 | 2 | 0 | 0 | 2 | 37 |
+| last60d | 2026-08-22 | 4 | 17 | 0 | 7 | 2 | 165 |
+| 90d | 2026-07-23 | 8 | 35 | 0 | 13 | 2 | 285 |
+| last180d | 2026-04-24 | 19 | 58 | 1 | 22 | 2 | 530 |
+| 360d | 2025-10-26 | 34 | 127 | 2 | 69 | 5 | 1157 |
+| last720d | 2024-10-31 | 55 | 168 | 2 | 138 | 7 | 1694 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for rovr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:19:02Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:04:40Z._
