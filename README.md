@@ -42,18 +42,18 @@ Total: **76,661** lines of code across **187** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 168 · **Open PRs**: 3 · **Closed issues**: 138 · **Open issues**: 8 · **Commits**: 1694
+- **Releases**: 55 · **Merged PRs**: 168 · **Open PRs**: 4 · **Closed issues**: 138 · **Open issues**: 8 · **Commits**: 1694
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 1 | 1 | 0 | 3 | 2 |
-| last60d | 2026-08-27 | 4 | 16 | 1 | 7 | 3 | 135 |
-| 90d | 2026-07-28 | 7 | 32 | 1 | 13 | 3 | 248 |
-| last180d | 2026-04-29 | 19 | 57 | 2 | 20 | 3 | 505 |
-| 360d | 2025-10-31 | 34 | 124 | 3 | 69 | 6 | 1132 |
-| last720d | 2024-11-05 | 55 | 168 | 3 | 138 | 8 | 1694 |
+| 30d | 2026-09-27 | 2 | 1 | 2 | 0 | 3 | 2 |
+| last60d | 2026-08-28 | 4 | 15 | 2 | 7 | 3 | 135 |
+| 90d | 2026-07-29 | 7 | 31 | 2 | 13 | 3 | 248 |
+| last180d | 2026-04-30 | 19 | 56 | 3 | 20 | 3 | 505 |
+| 360d | 2025-11-01 | 34 | 124 | 4 | 69 | 6 | 1132 |
+| last720d | 2024-11-06 | 55 | 168 | 4 | 138 | 8 | 1694 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for rovr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:06:50Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:34:05Z._
