@@ -14,12 +14,12 @@ x install rovr
 
 ## Code insight
 
-Total: **77,026** lines of code across **186** files in the top 5 languages.
+Total: **77,336** lines of code across **188** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 42,861 | 40 | 281 | 41 |
-| Python | 26,289 | 928 | 3,597 | 129 |
+| Python | 26,599 | 932 | 3,625 | 131 |
 | Yaml | 3,463 | 0 | 930 | 3 |
 | Json | 2,265 | 0 | 0 | 7 |
 | Toml | 1,227 | 35 | 126 | 6 |
@@ -42,18 +42,18 @@ Total: **77,026** lines of code across **186** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 169 · **Open PRs**: 3 · **Closed issues**: 139 · **Open issues**: 12 · **Commits**: 1712
+- **Releases**: 55 · **Merged PRs**: 169 · **Open PRs**: 3 · **Closed issues**: 140 · **Open issues**: 11 · **Commits**: 1721
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 1 | 1 | 0 | 6 | 17 |
-| last60d | 2026-09-16 | 3 | 5 | 1 | 1 | 7 | 69 |
-| 90d | 2026-08-17 | 6 | 19 | 1 | 9 | 7 | 193 |
-| last180d | 2026-05-19 | 17 | 55 | 1 | 18 | 7 | 456 |
-| 360d | 2025-11-20 | 33 | 117 | 3 | 67 | 10 | 1031 |
-| last720d | 2024-11-25 | 55 | 169 | 3 | 139 | 12 | 1712 |
+| 30d | 2026-10-17 | 1 | 1 | 1 | 1 | 5 | 26 |
+| last60d | 2026-09-17 | 2 | 3 | 1 | 2 | 6 | 78 |
+| 90d | 2026-08-18 | 5 | 19 | 1 | 10 | 6 | 202 |
+| last180d | 2026-05-20 | 17 | 54 | 1 | 19 | 6 | 465 |
+| 360d | 2025-11-21 | 33 | 115 | 3 | 67 | 9 | 1040 |
+| last720d | 2024-11-26 | 55 | 169 | 3 | 140 | 11 | 1721 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for rovr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:00:16Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:17:44Z._
