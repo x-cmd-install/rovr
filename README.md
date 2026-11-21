@@ -48,12 +48,12 @@ Total: **74,749** lines of code across **187** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 3 | 2 | 1 | 4 | 70 |
-| last60d | 2026-09-21 | 2 | 5 | 2 | 2 | 6 | 121 |
-| 90d | 2026-08-22 | 4 | 20 | 2 | 9 | 6 | 245 |
-| last180d | 2026-05-24 | 15 | 54 | 2 | 19 | 6 | 508 |
-| 360d | 2025-11-25 | 32 | 116 | 4 | 67 | 9 | 1083 |
-| last720d | 2024-11-30 | 55 | 171 | 4 | 140 | 11 | 1764 |
+| 30d | 2026-10-22 | 1 | 3 | 1 | 1 | 4 | 70 |
+| last60d | 2026-09-22 | 2 | 5 | 2 | 2 | 6 | 121 |
+| 90d | 2026-08-23 | 4 | 20 | 2 | 9 | 6 | 245 |
+| last180d | 2026-05-25 | 15 | 54 | 2 | 19 | 6 | 508 |
+| 360d | 2025-11-26 | 32 | 116 | 4 | 66 | 9 | 1083 |
+| last720d | 2024-12-01 | 55 | 171 | 4 | 140 | 11 | 1764 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for rovr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:14:50Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:40:51Z._
