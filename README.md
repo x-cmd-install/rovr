@@ -14,12 +14,12 @@ x install rovr
 
 ## Code insight
 
-Total: **74,699** lines of code across **187** files in the top 5 languages.
+Total: **74,684** lines of code across **187** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 39,869 | 37 | 260 | 38 |
-| Python | 26,914 | 901 | 3,798 | 133 |
+| Python | 26,899 | 902 | 3,792 | 133 |
 | Yaml | 3,463 | 0 | 930 | 3 |
 | Json | 2,295 | 0 | 0 | 7 |
 | Toml | 1,233 | 35 | 129 | 6 |
@@ -33,7 +33,7 @@ Total: **74,699** lines of code across **187** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-10-01)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-23
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **74,699** lines of code across **187** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 171 · **Open PRs**: 4 · **Closed issues**: 140 · **Open issues**: 11 · **Commits**: 1765
+- **Releases**: 55 · **Merged PRs**: 171 · **Open PRs**: 4 · **Closed issues**: 140 · **Open issues**: 11 · **Commits**: 1770
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 1 | 3 | 1 | 1 | 4 | 62 |
-| last60d | 2026-09-23 | 2 | 5 | 2 | 2 | 6 | 81 |
-| 90d | 2026-08-24 | 4 | 20 | 2 | 9 | 6 | 214 |
-| last180d | 2026-05-26 | 15 | 54 | 2 | 19 | 6 | 489 |
-| 360d | 2025-11-27 | 32 | 116 | 4 | 66 | 9 | 1057 |
-| last720d | 2024-12-02 | 55 | 171 | 4 | 140 | 11 | 1765 |
+| 30d | 2026-10-24 | 1 | 3 | 1 | 1 | 4 | 0 |
+| last60d | 2026-09-24 | 2 | 5 | 2 | 2 | 6 | 0 |
+| 90d | 2026-08-25 | 4 | 20 | 2 | 9 | 6 | 0 |
+| last180d | 2026-05-27 | 14 | 53 | 2 | 18 | 6 | 0 |
+| 360d | 2025-11-28 | 32 | 115 | 4 | 66 | 9 | 0 |
+| last720d | 2024-12-03 | 55 | 171 | 4 | 140 | 11 | 1770 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for rovr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:43:40Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:09:37Z._
