@@ -33,7 +33,7 @@ Total: **74,760** lines of code across **187** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-10-01)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-28
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **74,760** lines of code across **187** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 173 · **Open PRs**: 2 · **Closed issues**: 141 · **Open issues**: 10 · **Commits**: 1780
+- **Releases**: 55 · **Merged PRs**: 173 · **Open PRs**: 2 · **Closed issues**: 141 · **Open issues**: 10 · **Commits**: 1782
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 3 | 1 | 1 | 4 | 77 |
-| last60d | 2026-09-28 | 2 | 6 | 1 | 3 | 5 | 96 |
-| 90d | 2026-08-29 | 4 | 20 | 1 | 10 | 5 | 229 |
-| last180d | 2026-05-31 | 14 | 53 | 1 | 17 | 5 | 504 |
-| 360d | 2025-12-02 | 32 | 115 | 2 | 66 | 8 | 1072 |
-| last720d | 2024-12-07 | 55 | 173 | 2 | 141 | 10 | 1780 |
+| 30d | 2026-10-29 | 1 | 3 | 1 | 1 | 4 | 0 |
+| last60d | 2026-09-29 | 2 | 5 | 1 | 3 | 5 | 0 |
+| 90d | 2026-08-30 | 4 | 19 | 1 | 10 | 5 | 0 |
+| last180d | 2026-06-01 | 14 | 53 | 1 | 17 | 5 | 0 |
+| 360d | 2025-12-03 | 31 | 113 | 2 | 66 | 8 | 0 |
+| last720d | 2024-12-08 | 55 | 173 | 2 | 141 | 10 | 1782 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for rovr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:28:40Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:20:39Z._
